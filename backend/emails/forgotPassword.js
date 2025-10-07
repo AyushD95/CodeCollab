@@ -2,7 +2,7 @@ import nodemailer from "nodemailer"
 import "dotenv/config"
 
 
-
+//
 async function forgotPasswordEmail(email,name,otp) {
 
 
